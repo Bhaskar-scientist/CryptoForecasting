@@ -1,0 +1,14 @@
+streamlit
+numpy
+pandas
+yfinance
+pandas-ta
+plotly
+matplotlib
+scikit-learn
+bs4
+requests
+psycopg2-binary
+tensorflow
+keras
+
