@@ -17,7 +17,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.tree import DecisionTreeRegressor
 import psycopg2
 from tensorflow import keras
-from keras.preprocessing.sequence import TimeseriesGenerator
+from tensorflow.keras.preprocessing.sequence import TimeseriesGenerator
 from keras import Sequential
 from sklearn.preprocessing import MinMaxScaler
 from keras.layers import Dense,LSTM,Dropout
